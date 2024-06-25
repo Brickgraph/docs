@@ -1,0 +1,30 @@
+site_name: Brickgraph
+site_url: https://docs.brickgraph.io/
+theme:
+  name: material
+nav:
+  - Getting started: index.md
+  - Organisations & Users: organisation.md
+  - Why graphs?: why.md
+  - Schemas: 
+     - schema.md
+     - schema2.md
+  - Data:
+     - entities.md
+     - relationships.md
+     - data.md
+     - data2.md
+     - creating.md
+     - editing.md
+     - deleting.md
+  - Search and Filter data:
+     - search.md
+     - filter.md
+  - Dashboard:
+     - dashboard.md
+  - Reports:
+     - reports.md
+  - Maps:
+     - maps.md
+  - Using the API:
+     - api.md
