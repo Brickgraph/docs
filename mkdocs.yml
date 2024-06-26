@@ -1,7 +1,11 @@
 site_name: Brickgraph
 site_url: https://docs.brickgraph.io/
+site_description: Brickgraph - no-code knowledge graphs for ambitious real estate teams
 theme:
   name: material
+  logo: img/favicon.png
+  favicon: img/favicon.png
+  language: en
 nav:
   - Getting started: index.md
   - Organisations & Users: organisation.md
