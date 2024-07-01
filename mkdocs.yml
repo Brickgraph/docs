@@ -1,34 +1,67 @@
 site_name: Brickgraph
 site_url: https://docs.brickgraph.io/
-site_description: Brickgraph - no-code knowledge graphs for ambitious real estate teams
+site_description: Brickgraph - simple, powerful knowledge graphs for ambitious real estate teams
 theme:
   name: material
   logo: img/favicon.png
   favicon: img/favicon.png
   language: en
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.path
+    - navigation.expand
+    - navigation.indexes
+extra_css:
+  - extra.css
 nav:
-  - Getting started: index.md
-  - Organisations & Users: organisation.md
-  - Why graphs?: why.md
-  - Schemas: 
-     - schema.md
-     - schema2.md
-  - Data:
-     - entities.md
-     - relationships.md
-     - data.md
-     - data2.md
-     - creating.md
-     - editing.md
-     - deleting.md
-  - Search and Filter data:
-     - search.md
-     - filter.md
+  - Getting Started: index.md
+  - Features: 
+     - features/index.md
+     - features/why-graphs.md
+     - features/use-cases.md
+  - Schema Builder: 
+     - schema/index.md
+     - schema/entities.md
+     - schema/relationships.md
+     - Fields:
+         - schema/fields/index.md
+         - schema/fields/setup.md
+         - schema/fields/types.md
+     - schema/workspaces.md
+  - Data Editor:
+     - data/index.md
+     - data/menu.md
+     - Editor View:
+         - data/editor/index.md
+         - data/editor/focus.md
+         - data/editor/creating.md
+         - Fields:
+            - data/editor/fields/index.md
+            - data/editor/fields/address.md
+            - data/editor/fields/relationship.md
+         - data/editor/deleting.md
+     - Filtering Data:
+         - data/editor/filtering/index.md
+         - data/editor/filtering/related-filter.md
+         - data/editor/filtering/data-filter.md
+     - Entity Focus:
+         - data/entity-focus/index.md
+         - data/entity-focus/details.md
+         - data/entity-focus/subgraph.md
+         - data/entity-focus/map.md
+     - data/activity.md
   - Dashboard:
-     - dashboard.md
+     - dashboard/index.md
   - Reports:
-     - reports.md
-  - Maps:
-     - maps.md
-  - Using the API:
-     - api.md
+     - reports/index.md
+  - Map:
+     - map/index.md
+  - Integrating Data:
+     - integrations/index.md
+     - integrations/csv.md
+     - integrations/api.md
+     - integrations/excel.md
+     - integrations/google.md
+  - Admin:
+     - admin/index.md
