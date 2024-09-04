@@ -11,9 +11,9 @@ hide:
 
 # Getting Started with Brickgraph
 
-### Simple and powerful
+### What is Brickgraph?
 
-*Simple, powerful knowledge graphs for ambitious real estate and built environment teams*
+_Simple, powerful knowledge graphs for ambitious real estate and built environment teams_
 
 Brickgraph makes it easy to create powerful, flexible, and extensible knowledge graphs for your real estate or built environment teams. And, alongside these data capabilities, Brickgraph also offers tools for teams to visualise their data, extract key reports and insights, and leverage maps and geospatial data. We are designed to help ambitious teams take their operations and data to a whole new level.
 
@@ -36,7 +36,6 @@ at the bottom of the modal to create one.
 ### Main navigation page
 
 After signing in you will see the main page.
-
 
 <p align="center">
  <img src="img/main-page.png" alt="Main page" width="800">

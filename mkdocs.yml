@@ -16,52 +16,52 @@ extra_css:
   - extra.css
 nav:
   - Getting Started: index.md
-  - Features: 
-     - features/index.md
-     - features/why-graphs.md
-     - features/use-cases.md
-  - Schema Builder: 
-     - schema/index.md
-     - schema/entities.md
-     - schema/relationships.md
-     - Fields:
-         - schema/fields/index.md
-         - schema/fields/setup.md
-         - schema/fields/types.md
-     - schema/workspaces.md
+  - Graphs:
+      - graphs/index.md
+      - graphs/why-graphs.md
+      - graphs/use-cases.md
+  - Schema Builder:
+      - schema/index.md
+      - schema/entities.md
+      - schema/relationships.md
+      - Fields:
+          - schema/fields/index.md
+          - schema/fields/setup.md
+          - schema/fields/types.md
+      - schema/workspaces.md
   - Data Editor:
-     - data/index.md
-     - data/menu.md
-     - Editor View:
-         - data/editor/index.md
-         - data/editor/focus.md
-         - data/editor/creating.md
-         - Fields:
-            - data/editor/fields/index.md
-            - data/editor/fields/address.md
-            - data/editor/fields/relationship.md
-         - data/editor/deleting.md
-     - Filtering Data:
-         - data/editor/filtering/index.md
-         - data/editor/filtering/related-filter.md
-         - data/editor/filtering/data-filter.md
-     - Entity Focus:
-         - data/entity-focus/index.md
-         - data/entity-focus/details.md
-         - data/entity-focus/subgraph.md
-         - data/entity-focus/map.md
-     - data/activity.md
+      - data/index.md
+      - data/menu.md
+      - Editor View:
+          - data/editor/index.md
+          - data/editor/focus.md
+          - data/editor/creating.md
+          - Fields:
+              - data/editor/fields/index.md
+              - data/editor/fields/address.md
+              - data/editor/fields/relationship.md
+          - data/editor/deleting.md
+      - Filtering Data:
+          - data/editor/filtering/index.md
+          - data/editor/filtering/related-filter.md
+          - data/editor/filtering/data-filter.md
+      - Entity Focus:
+          - data/entity-focus/index.md
+          - data/entity-focus/details.md
+          - data/entity-focus/subgraph.md
+          - data/entity-focus/map.md
+      - data/activity.md
   - Dashboard:
-     - dashboard/index.md
+      - dashboard/index.md
   - Reports:
-     - reports/index.md
+      - reports/index.md
   - Map:
-     - map/index.md
+      - map/index.md
   - Integrating Data:
-     - integrations/index.md
-     - integrations/csv.md
-     - integrations/api.md
-     - integrations/excel.md
-     - integrations/google.md
+      - integrations/index.md
+      - integrations/csv.md
+      - integrations/api.md
+      - integrations/excel.md
+      - integrations/google.md
   - Admin:
-     - admin/index.md
+      - admin/index.md
