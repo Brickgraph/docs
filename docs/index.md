@@ -9,42 +9,42 @@ hide:
  </a>
 </p>
 
-# Getting Started with Brickgraph
+# Brickgraph
 
 ### What is Brickgraph?
 
 _Simple, powerful knowledge graphs for ambitious real estate and built environment teams_
 
-Brickgraph makes it easy to create powerful, flexible, and extensible knowledge graphs for your real estate or built environment teams. And, alongside these data capabilities, Brickgraph also offers tools for teams to visualise their data, extract key reports and insights, and leverage maps and geospatial data. We are designed to help ambitious teams take their operations and data to a whole new level.
+Brickgraph makes it easy to create powerful, flexible, and extensible knowledge graphs for your real estate or built environment teams. Visualise your organisation's data, extract key reports and insights, and plug into maps and external geospatial data - take your operations and data to a whole new level.
 
-### Creating an account
+Use these Brickgraph Academy resources to learn more about the power of knowledge graphs and how to get the most value from using Brickgraph for your team.
 
-Getting up and running is easy. Simply [sign up here](https://app.brickgraph.io)
-to start. You'll be prompted to sign in, but if you don't have an account you can click the link
-at the bottom of the modal to create one.
+### Knowledge graphs
 
-<p align="center">
-<a href="https://app.brickgraph.io" target="_blank">
- <img src="img/sign-up.png" alt="Sign up" width="400">
- </a>
-</p>
+Think of your data as a network - with _entities_ (like properties, or funds) connected by _relationships_ to other entities in the network - much like other networks we interact with everyday, like subway systems, or a social network of friends. Building and identifying relevant _connections_ across your network unlocks incredible possibilities so the graph structure for data is a great way to organise your internal information to maximise insights and save time working with your data. Historically however, this has required specialised coding and development skills to create but Brickgraph is designed to make the process of creating and maintaining knowledge graphs simple and valuable for teams of all sizes and skills.
 
-### Creating an organisation
+### Brickgraph features
 
-### Joining an organisation
+Think of Brickgraph as both application and platform... we want to ensure that you and your team is getting the most out of your data. The core of Brickgraph is the Schema Builder and Data Editor but we also have tools to visualise and analyse your organisation information.
 
-### Main navigation page
+Managing and maintaining good data;
 
-After signing in you will see the main page.
+- [Schema builder](schema/index.md)
+- [Data editor](data/index.md)
 
-<p align="center">
- <img src="img/main-page.png" alt="Main page" width="800">
-</p>
+Understanding data for operations and analysis;
 
-### Quick Search menu
+- [Dashboard](dashboard/index.md)
+- [Map](map/index.md)
+- Chat Assistant
 
-The "Quick search" menu allows you to easily search for specific entity in your organisation's graph or navigate to Brickgraph features or data pages. It is available anywhere you are in the app and allows you to easily navigate to any of the main Brickgraph features. As well, by pressing `ctrl-k on Windows` / `command-k on Mac` - or pressing the button on the side navigation menu - the "Quick search" menu will appear.
+Integrating data and insights with other tools;
 
-<p align="center">
- <img src="img/quick-menu.png" alt="Quick menu" width="800">
-</p>
+- Brickgraph API
+- Reports and extracts
+
+### The Academy
+
+### Help and support
+
+Having issues with the platform or want to learn how to get the most out of your Brickgraph instance? Contact us at [support](mailto:support@brickgraph.io) or [book a call with David](https://calendly.com/brickgraph-david/chat)
