@@ -1,4 +1,4 @@
-# Copyright (c) 2023-2024 David Bender <david@brickgraph.io>
+# Copyright (c) 2023-2025 David Bender <david@brickgraph.io>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -20,79 +20,83 @@
 
 # Project information
 site_name: Brickgraph | Academy
-site_url: https://docs.brickgraph.io/
+site_url: https://academy.brickgraph.io/
 site_author: David Bender
-site_description: Brickgraph - simple, powerful knowledge graphs for ambitious real estate teams
+site_description: Brickgraph - simple, powerful knowledge graphs for real world businesses
 
 # Repository
-repo_name: Brickgraph/docs
-repo_url: https://github.com/Brickgraph/docs
+#repo_name: Brickgraph/docs
+#repo_url: https://github.com/Brickgraph/docs
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 David Bender
+copyright: Copyright &copy; 2023 - 2025 Brickgraph Incorporated
 theme:
   name: material
-  logo: img/favicon.png
-  favicon: img/favicon.png
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
   language: en
   features:
     - navigation.top
     - navigation.tabs
     - navigation.path
-    - navigation.expand
     - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.tooltips
 extra:
   image_dir: img
 extra_css:
   - extra.css
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://brickgraph.io
+    - icon: fontawesome/brands/github
+      link: https://github.com/Brickgraph
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/brickgraph
 nav:
-  - Brickgraph: index.md
-  - Getting Started:
-      - getting-started/set-up.md
-      - getting-started/main-navigation.md
-      - getting-started/quick-search.md
-  - Schema Builder:
-      - schema/index.md
-      - schema/entities.md
-      - schema/relationships.md
-      - Fields:
-          - schema/fields/index.md
-          - schema/fields/setup.md
-          - schema/fields/types.md
-      - schema/workspaces.md
-  - Data Editor:
-      - data/index.md
-      - data/menu.md
-      - Editor View:
-          - data/editor/index.md
-          - data/editor/focus.md
-          - data/editor/creating.md
-          - Fields:
-              - data/editor/fields/index.md
-              - data/editor/fields/address.md
-              - data/editor/fields/relationship.md
-          - data/editor/deleting.md
-      - Filtering Data:
-          - data/editor/filtering/index.md
-          - data/editor/filtering/related-filter.md
-          - data/editor/filtering/data-filter.md
-      - Entity Focus:
-          - data/entity-focus/index.md
-          - data/entity-focus/details.md
-          - data/entity-focus/subgraph.md
-          - data/entity-focus/map.md
-      - data/activity.md
-  - Dashboard:
-      - dashboard/index.md
-  - Reports:
-      - reports/index.md
-  - Map:
-      - map/index.md
-  - Integrating Data:
-      - integrations/index.md
-      - integrations/csv.md
-      - integrations/api.md
-      - integrations/excel.md
-      - integrations/google.md
-  - Admin:
-      - admin/index.md
+  - Brickgraph:
+      - index.md
+      - Getting Started: getting-started.md
+      - Concepts:
+          - concepts/index.md
+          - Knowledge Graphs: concepts/knowledge-graphs/index.md
+          - Maps & Geospatial: concepts/geospatial-analysis/index.md
+          - Data Integration: concepts/data-integration/index.md
+          - Permissions: concepts/permissions/index.md
+          - LLMs: concepts/llms/index.md
+          - Agents: concepts/agents/index.md
+  - Features:
+      - features/index.md
+      - Graph: 
+          - features/graph/index.md
+          - Model Builder: features/graph/model-builder/index.md
+          - Data: features/graph/data/index.md
+      - Map: 
+          - features/map/index.md
+          - Styling: features/map/styling/index.md
+          - Layers: features/map/layers/index.md
+          - Layer Manager: features/map/manager/index.md
+          - Screenshot: features/map/screenshots/index.md
+      - Dashboard: features/dashboard/index.md
+      - Reports: features/reports/index.md
+      - Flows: features/flows/index.md
+      - Assistant: features/assistant/index.md
+      - API: features/api/index.md
+      - Settings: features/settings/index.md
+  - Guides:
+      - guides/index.md
+      - Quick Start: guides/sample-kg/index.md
+      - Using Maps for Analysis: guides/map/index.md
+      - Integrations:
+          - guides/integrations/index.md
+          - REST API: guides/integrations/api/index.md
+          - Excel: guides/integrations/excel/index.md
+          - Python: guides/integrations/python-api/index.md
+      - Best Practices:
+          - guides/best-practices/index.md
+      - Advanced:
+          - guides/advanced/index.md
+  - Support: support.md

@@ -1,0 +1,5 @@
+---
+title: Reports
+---
+
+# Brickgraph Reports
