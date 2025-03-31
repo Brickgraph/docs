@@ -2,7 +2,7 @@
 title: Permissions
 ---
 
-## What Are Permissions?
+### What Are Permissions?
 
 Permissions control what users can see and do within your knowledge graph application. They create boundaries that protect sensitive information while allowing appropriate access based on each user's role.
 
@@ -12,7 +12,7 @@ into a secure, collaborative platform where information flows
 appropriately based on user roles and needs.
 ```
 
-## Permission Levels
+### Permission Levels
 
 Your application offers four carefully designed permission levels:
 
@@ -46,7 +46,7 @@ This is perfect for stakeholders who need to analyze information but shouldn't m
 - Can view selected data that has been specifically shared
 - Cannot see the underlying data model
 
-## Why Permissions Matter
+### Why Permissions Matter
 
 #### Data Security
 

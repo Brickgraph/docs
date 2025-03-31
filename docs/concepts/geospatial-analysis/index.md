@@ -5,10 +5,10 @@ title: Maps & Geospatial Analysis
 Digital maps are interactive representations of geographic areas and points. In Brickgraph, maps provide a visual foundation for displaying your business data in its geographic context.
 
 <p align="center">
- <img src="/img/screenshots/docs-digital-map-example.png" alt="Brickgraph banner logo" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+ <img src="/img/screenshots/docs-digital-map-example.png" alt="Brickgraph banner logo" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px #0f2b53;">
 </p>
 
-## Geospatial Analytics
+### Geospatial Analytics
 
 Geospatial analytics is the process of gathering, displaying, and analyzing data related to geographic locations. This helps you answer questions like:
 
@@ -17,16 +17,16 @@ Geospatial analytics is the process of gathering, displaying, and analyzing data
 - How efficiently are your delivery routes organized?
 - What patterns emerge when business data is viewed geographically?
 
-## Map Layers
+### Map Layers
 
 Map layers are stackable visual elements that can be turned on or off to display different types of information:
 
 1. **Base layers** - The underlying map (street view, satellite imagery, terrain)
 2. **Graph Data** - Your business data derived from the Brickgraph graph that you create and maintain
-3. **Datasets** - Contextual information (administrative boundaries, zip codes, neighborhoods, flood zones, etc.)
-4. **Radius** - Travel-time areas visualised alongside data (demographics, economics, census indicators, etc.)
+3. **Radius** - Travel-time areas visualised alongside data (demographics, economics, census indicators, etc.)
+4. **Datasets** - Contextual information (administrative boundaries, zip codes, neighborhoods, flood zones, etc.)
 
-## Map Projections
+### Map Projections
 
 Map projections are methods of representing the curved surface of the Earth on a flat screen. Different projections serve different purposes:
 
@@ -34,8 +34,6 @@ Map projections are methods of representing the curved surface of the Earth on a
 - **Globe** - Maintains proportions of the actual globe in three dimensions
 
 Brickgraph map settings allow you to toggle between the two types.
-
-## Key Concepts for Users
 
 ### Geocoding
 
@@ -49,7 +47,7 @@ Creating zones around points or areas to analyze nearby features. Examples inclu
 - Areas within a 30-minute drive time
 - Overlap between delivery zones
 
-### Examples
+#### Examples and Use Cases
 
 - Visualize network connections with geographic context
 - Discover spatial patterns that might be missed in tables or charts

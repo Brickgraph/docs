@@ -17,7 +17,7 @@ Brickgraph makes it easy to create powerful, flexible, and extensible knowledge 
 
 ---
 
-Use these Brickgraph Academy resources to learn more about the power of knowledge graphs and how to get the most value from using Brickgraph for your team.
+Use these Brickgraph Academy resources to learn more about the power of knowledge graphs and how to get the most value for your team.
 
 <p align="center">
 <a href="https://brickgraph.io" target="_blank">

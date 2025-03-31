@@ -2,7 +2,7 @@
 title: Data Integration
 ---
 
-## What is Data Integration?
+### What is Data Integration?
 
 Data integration is the process of combining information from different sources into one unified view. In your knowledge graph application, it allows users to bring together data from various business systems to create a more complete picture.
 
@@ -11,12 +11,10 @@ Data integration transforms your knowledge graph from an isolated tool
 into a central hub that brings together your organization's collective knowledge.
 ```
 
-## Key Methods
+### Key Methods
 
 - **API Integration** - Connects directly to other software systems for real-time data exchange
 - **CSV Import / Export** - Allows uploading or extracting simple data files for use either in Brickgraph or into other applications
-
-## Why Data Integration Matters
 
 ### Creates a Complete Picture
 

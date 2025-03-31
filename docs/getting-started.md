@@ -10,7 +10,7 @@ You can access Brickgraph at <a href="https://app.brickgraph.io" target="_blank"
 signed in then you will be redirected to the Sign In page.
 
 <p align="center">
- <img src="/img/sign-in.png" alt="Brickgraph sign-in page" width="800">
+ <img src="/img/sign-in.png" alt="Brickgraph sign-in page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px #0f2b53;">
 </p>
 
 You can sign up using either an email or your Google account.
@@ -32,5 +32,5 @@ If you are joining an organization and have "admin" permissions" than you can cu
 on the Organization Switcher in the top right of the top menu OR by selecting "Organization" from the Settings and Links (⚙️) dropdown menu.
 
 <p align="center">
- <img src="/img/screenshots/docs-org-settings.png" alt="Brickgraph sign-in page" width="800">
+ <img src="/img/screenshots/docs-org-settings.png" alt="Brickgraph sign-in page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px #0f2b53;">
 </p>

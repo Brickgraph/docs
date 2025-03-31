@@ -25,8 +25,9 @@ site_author: David Bender
 site_description: Brickgraph - simple, powerful knowledge graphs for real world businesses
 
 # Repository
-#repo_name: Brickgraph/docs
-#repo_url: https://github.com/Brickgraph/docs
+#repo_name: Brickgraph Github
+#repo_url: https://github.com/Brickgraph
+#repo_stars: 100
 
 # Copyright
 copyright: Copyright &copy; 2023 - 2025 Brickgraph Incorporated
@@ -39,6 +40,7 @@ theme:
     - navigation.top
     - navigation.tabs
     - navigation.path
+    - navigation.expand
     - navigation.indexes
     - search.highlight
     - search.share
@@ -73,30 +75,29 @@ nav:
       - Graph: 
           - features/graph/index.md
           - Model Builder: features/graph/model-builder/index.md
-          - Data: features/graph/data/index.md
+          - Data Editor: features/graph/data/index.md
       - Map: 
           - features/map/index.md
           - Styling: features/map/styling/index.md
           - Layers: features/map/layers/index.md
-          - Layer Manager: features/map/manager/index.md
           - Screenshot: features/map/screenshots/index.md
       - Dashboard: features/dashboard/index.md
       - Reports: features/reports/index.md
       - Flows: features/flows/index.md
       - Assistant: features/assistant/index.md
       - API: features/api/index.md
-      - Settings: features/settings/index.md
-  - Guides:
-      - guides/index.md
-      - Quick Start: guides/sample-kg/index.md
-      - Using Maps for Analysis: guides/map/index.md
-      - Integrations:
-          - guides/integrations/index.md
-          - REST API: guides/integrations/api/index.md
-          - Excel: guides/integrations/excel/index.md
-          - Python: guides/integrations/python-api/index.md
-      - Best Practices:
-          - guides/best-practices/index.md
-      - Advanced:
-          - guides/advanced/index.md
+      #- Settings: features/settings/index.md
+  #- Guides:
+  #    - guides/index.md
+  #    - Quick Start: guides/sample-kg/index.md
+  #    - Using Maps for Analysis: guides/map/index.md
+  #    - Integrations:
+  #        - guides/integrations/index.md
+  #      - REST API: guides/integrations/api/index.md
+  #      - Excel: guides/integrations/excel/index.md
+  #      - Python: guides/integrations/python-api/index.md
+  #  - Best Practices:
+  #      - guides/best-practices/index.md
+  #  - Advanced:
+  #      - guides/advanced/index.md
   - Support: support.md

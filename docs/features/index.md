@@ -6,21 +6,26 @@ title: Features
 
 Brickgraph has many features to help you and your teams to build, manage, and analyse your internal knowledge graph. Although we are always evolving the tools and functionality the heart of Brickgraph will always be to enable you to build knowledge graphs that natively integrate with maps and geospatial analysis.
 
-### Graph
+### Knowledge Graph & Map
 
-- ####[Model Builder](/features/graph/model-builder)
-- ####[Data Editor](/features/graph/data)
+#### [Model Builder](/features/graph/model-builder)
 
-### [Map](/features/map)
+#### [Data Editor](/features/graph/data)
 
-### [Dashboard](/features/dashboard)
+#### [Map](/features/map)
 
-### [Reports](/features/reports)
+---
 
-### [Flows](/features/flows)
+### More
 
-### [Assistant](/features/assistant)
+#### [Dashboard](/features/dashboard)
 
-### [API](/features/api)
+#### [Reports](/features/reports)
 
-### [Settings](/features/settings)
+#### [Flows](/features/flows)
+
+#### [Assistant](/features/assistant)
+
+#### [API](/features/api)
+
+#### [Settings](/features/settings)

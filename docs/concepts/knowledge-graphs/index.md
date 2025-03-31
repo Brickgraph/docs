@@ -7,7 +7,7 @@ title: Knowledge Graphs
 A knowledge graph is a way of organizing information that shows how different pieces of data connect to each other. Unlike traditional databases that store information in tables or lists, knowledge graphs represent information as a network of interconnected concepts.
 
 <p align="center">
- <img src="/img/screenshots/docs-kg-example.png" alt="Brickgraph banner logo" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+ <img src="/img/screenshots/docs-kg-example.png" alt="Brickgraph banner logo" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px #0f2b53">
 </p>
 
 ### How they work

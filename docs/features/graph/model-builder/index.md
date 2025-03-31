@@ -16,6 +16,8 @@ To begin editing your data model ensure that "Edit Mode" is enabled. This can be
 
 Once Edit Mode is enabled you will see additional options appear in the top menu that allow you to create new Entities or Relationships (the ➕ button).
 
+---
+
 ### Views
 
 The Model Builder has two distinct views; Graph and List. Graph view visualises the Entities and Relationships in your model as a connected network and can be interacted with simply by selecting the entity or relationship you'd like to view/navigate to. If you are not in Edit Mode clicking any Entity/Relationship will navigate to the respective Data Editor. If you are in Edit Mode then a dialog will appear with options to edit that object (<a href="#edit-existing">see below for more</a>).
@@ -26,6 +28,8 @@ The Model Builder has two distinct views; Graph and List. Graph view visualises 
     <td><img src="/img/screenshots/docs-schema-list.png" alt="Brickgraph banner logo" width="400" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></td>
   </tr>
 </table>
+
+---
 
 ### Entities & Relationships
 

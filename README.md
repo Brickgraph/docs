@@ -1,1 +1,1 @@
-## Brickgraph documentation site
+## Brickgraph Academy site

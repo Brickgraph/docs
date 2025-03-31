@@ -2,7 +2,7 @@
 title: LLMs with Graphs
 ---
 
-## What Are LLMs?
+### What Are LLMs?
 
 Large Language Models are AI systems trained on vast amounts of text data that can understand, generate, and manipulate human language. They can answer questions, write content, summarize information, and perform many other language-based tasks. Popular examples are OpenAI's GPT 4 or Claude from Anthropic.
 
@@ -13,16 +13,14 @@ landscape, delivering responses that are accurate, relevant,
 and tailored to your specific context.
 ```
 
-## Key Capabilities
+### Key Capabilities
 
 - **Natural language understanding** - Comprehending the meaning and context of questions
 - **Content generation** - Creating coherent and relevant text responses
 - **Context awareness** - Maintaining the thread of a conversation
 - **Knowledge application** - Drawing on training data to provide information
 
-## LLMs and Knowledge Graphs
-
-### How They Work Together
+### LLMs and Knowledge Graphs
 
 When LLMs are integrated with knowledge graphs, they become more powerful and precise:
 
@@ -42,7 +40,7 @@ Instead of approximating answers, LLMs can query your knowledge graph for precis
 
 Knowledge graphs help prevent LLMs from generating plausible but incorrect information by providing verified data sources.
 
-## Practical Benefits
+### Practical Benefits
 
 #### Personalized Interactions
 

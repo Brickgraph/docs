@@ -2,11 +2,11 @@
 title: Agents
 ---
 
-## What Are Agents?
+### What Are Agents?
 
 Agents are automated, AI-powered entities that can perform tasks, make decisions, and take actions on your behalf within a digital environment. In the context of knowledge graphs, agents operate as specialized assistants that can interact with your data in purposeful ways.
 
-## Key Capabilities
+### Key Capabilities
 
 #### Autonomous Operation
 
@@ -20,9 +20,7 @@ Unlike passive tools, agents actively work toward specific objectives—finding 
 
 Agents typically have focused roles such as data validation, pattern recognition, or relationship discovery within your knowledge graph.
 
-## Agents and Knowledge Graphs
-
-### How They Work Together
+### Agents and Knowledge Graphs
 
 #### Active Data Management
 
